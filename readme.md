@@ -1,4 +1,4 @@
-# A docker environment for building edgetx firmware
+# A dockerized environment for building edgetx firmware and etc.
 
 The [EdgeTX wiki](https://github.com/EdgeTX/edgetx/wiki) shows how to build firmware on different platforms. You have to install all packages again and again if you are on different devices. You can build firmware using Cloud Builder, such as **GitPod**. But why don't I benifit from my 72 cores workmonster? So I created this docker image only for building custom edgetx firmware faster.
 
